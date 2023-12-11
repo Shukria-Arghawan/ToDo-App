@@ -1,0 +1,69 @@
+.inputs{
+    position: absolute;
+    top: 140px;
+    left: 300px;
+}
+.subBtn {
+    position: absolute;
+    left: 630px;
+    border-radius: 12px;
+    background-color: #000;
+    color: #fff;
+}
+.time{
+    position: absolute;
+    left: 250px;
+    width: 340px;
+    outline: none;
+    border: none;
+    border-bottom: 2px solid #000;
+}
+
+.task{
+    position: absolute;
+    left: 30px;
+    outline: none;
+    border: none;
+    border-bottom: 2px solid #000;
+
+}
+.resultLister{
+    position: absolute;
+    top: 200px;
+    left: 330px;
+    width: 800px;
+   
+}
+.taskSpan{
+  /*  display: block;*/
+    width: 600px;
+    border-bottom: 1px solid #000;
+}
+
+/*
+.reminderBtn{
+    width: 100px;
+    position: absolute;
+    border-radius:12px ;
+    left: 200px;
+    height: 25px;
+    left: 400px;
+    background-color: #0000;
+   
+}*/
+.taskLister{
+    background-color: black;
+    width: 600px;
+    position: absolute;
+    color: #fff;
+    top: 200px;
+    left: 350px;
+}
+.doneBtn{
+    width: 80px;
+    border-radius:12px ;
+    border: 1px solid #fff;
+    background-color: #000;
+    margin-left: 50px;
+    color: #fff;
+}
